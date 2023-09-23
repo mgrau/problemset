@@ -1,0 +1,30 @@
+---
+title: PHYS 137T
+subtitle: Introduction to Quantum Science and Technology
+semester: Fall 2023
+author: Dr. Matt Grau
+university: Old Dominion University
+problem-set: 3
+due: Tuesday September 19 2023
+solutions: true
+format:
+  problemset-pdf: default
+---
+
+# Example Problem Title
+
+Create an example homework problem with suitable sub-questions:
+
+1. First part
+
+::: ps-solution
+This is the solution
+:::
+2. Second part
+3. Third part
+4. Final part
+
+# Example Problem
+
+A second example homework problem.
+
