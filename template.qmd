@@ -21,7 +21,9 @@ Create an example homework problem with suitable sub-questions:
 This is the solution
 :::
 2. Second part
+
 3. Third part
+
 4. Final part
 
 # Example Problem
