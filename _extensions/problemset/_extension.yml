@@ -7,17 +7,19 @@ contributes:
     common:
       filters:
         - solutions.lua
-    pdf:
+      number-sections: true
       mainfont: CMU Serif
       sansfont: CMU Serif
+    pdf:
       fig-align: center
       fig-pos: "H"
       geometry:
-          - top=1.2in
-          - right=1in
-          - bottom=1in
-          - left=1in
-      number-sections: true
+        - top=1.2in
+        - right=1in
+        - bottom=1in
+        - left=1in
       include-in-header: header.tex
       include-before-body: pre-body.tex
+    html:
+      default
 

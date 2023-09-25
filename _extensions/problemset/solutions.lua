@@ -25,7 +25,8 @@ local function parseSolutions(div)
         local header = pandoc.Div(pandoc.Div("Solution", { class = 'callout-title-container flex-fill' }),
           { class = 'callout-header d-flex align-content-center' })
         div = pandoc.Div(div.content, { class = 'callout-body-container callout-body' })
-        div = pandoc.Div(div, { class = 'callout callout-style-default callout-tip no-icon callout-titled' })
+        -- div = pandoc.Div(div, { class = 'callout-1-contents callout-collapse collapse' })
+        div = pandoc.Div(div, { class = 'callout callout-style-default callout-note no-icon callout-titled' })
         table.insert(div.content, 1, header)
 
         -- else
