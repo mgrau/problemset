@@ -10,6 +10,7 @@ date: Tuesday September 19 2023
 solutions: true
 format:
   problemset-pdf: default
+  problemset-html: default
 ---
 
 # Example Problem Title
@@ -18,7 +19,7 @@ Create an example homework problem with suitable sub-questions:
 
 1. First part
 
-::: ps-solution
+::: solution
 This is the solution
 :::
 2. Second part

@@ -8,7 +8,7 @@ local function parseMeta(meta)
 end
 
 local function parseSolutions(div)
-  if div.classes:includes("ps-solution") then
+  if div.classes:includes("solution") then
     if show_solutions then
       return quarto.Callout({
         type = 'note',
