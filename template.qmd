@@ -3,9 +3,10 @@ title: PHYS 137T
 subtitle: Introduction to Quantum Science and Technology
 semester: Fall 2023
 author: Dr. Matt Grau
-university: Old Dominion University
-problem-set: 3
-due: Tuesday September 19 2023
+affiliation: Old Dominion University
+type: Problem Set
+number: 3
+date: Tuesday September 19 2023
 solutions: true
 format:
   problemset-pdf: default
