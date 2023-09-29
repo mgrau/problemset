@@ -25,5 +25,6 @@ contributes:
       include-in-header: header.tex
       include-before-body: pre-body.tex
     html:
-      default
+      template-partials:
+        - title-block.html
 
