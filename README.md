@@ -47,7 +47,7 @@ solutions: true #include solutions
 You can include solutions inline using the block
 
 ```yaml
-::: solution
+::: sol
 your solution here
 :::
 ```
